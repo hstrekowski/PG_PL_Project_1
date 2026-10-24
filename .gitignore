@@ -1,0 +1,7 @@
+# Wyniki kompilacji
+obj/
+*.o
+*.ali
+b~*
+*.exe
+main
